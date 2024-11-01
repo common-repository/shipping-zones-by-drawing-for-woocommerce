@@ -1,0 +1,39 @@
+th#szbd_post_id {
+	width: 50px;
+}
+
+#szbd-test-address {
+	margin-bottom: 20px;
+}
+
+#szbd_map {
+	width: 100%;
+}
+table.form-table {
+    border-bottom: 1px solid purple;
+}
+.szbd-heading {
+	font-size: large;
+	color: green;
+}
+
+.szbd-heading-fail {
+	font-size: large;
+	color: red;
+}
+.premium_link{
+
+    border-radius: 7px;
+    margin-left: 15px;
+    border-color: green;
+    border-style: solid;
+    border-width: thin;
+    font-weight: 400;
+
+    padding: 3px;
+}
+a.premium_link_ref{
+
+    color:  green;
+    text-decoration: none;
+}

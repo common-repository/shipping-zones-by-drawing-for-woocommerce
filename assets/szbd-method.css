@@ -1,0 +1,19 @@
+.premium_link{
+
+    border-radius: 7px;
+    margin-left: 15px;
+    border-color: green;
+    border-style: solid;
+    border-width: thin;
+    font-weight: 400;
+
+    padding: 3px;
+}
+a.premium_link_ref{
+
+    color:  green;
+    text-decoration: none;
+}
+.szbd_hide{
+    display:none;
+}

@@ -1,0 +1,18 @@
+.woocommerce ul#shipping_method {
+	display: none;
+}
+
+#place_order.szbd-disabled {
+	opacity: 0.5;
+	cursor: not-allowed !important;
+	pointer-events: none !important;
+}
+#szbd-picked_field,
+#szbd-map-open_field {
+	visibility: hidden;
+	max-height:0px;
+	margin:0px;
+}
+.szbd-hide{
+	display: none;
+}

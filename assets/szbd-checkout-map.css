@@ -1,0 +1,9 @@
+#szbd-picked_field,
+#szbd-map-open_field {
+	visibility: hidden;
+	max-height:0px;
+	margin:0px;
+}
+.szbd-hide{
+display: none;
+}
